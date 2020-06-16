@@ -42,6 +42,7 @@ The text corpus contains more than 90 million running words
 
 ## Other Resources
 
+- [Nepali Text Extraction](https://github.com/tnagorra/nepali-text-extraction)
 - [Laxmi Prasad Devkota Poems](https://github.com/devkotasawal1/Poem-Generator/blob/master/lspd.txt)
 - [Nepali Names](https://github.com/datafiction/oya-nepali-nlp/blob/master/data/names/Nepali.txt)
 - [Nepali Ngram](https://github.com/virtualanup/nepalingram)
