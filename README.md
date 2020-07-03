@@ -40,6 +40,10 @@ Trained on Common Crawl and Wikipedia
 - [300-D Word Embeddings (Word2Vec) for Nepali Language](https://github.com/rabindralamsal/Word2Vec-Embeddings-for-Nepali-Language)\
 The text corpus contains more than 90 million running words
 
+## NER
+
+- [Nepali NER](https://github.com/oya163/nepali-ner)
+
 ## Other Resources
 
 - [Nepali Text Extraction](https://github.com/tnagorra/nepali-text-extraction)
